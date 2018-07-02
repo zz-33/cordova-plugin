@@ -44,10 +44,10 @@
     <config-file target="AndroidManifest.xml" parent="/manifest/application">
         <meta-data
             android:name="BaiduMobAd_STAT_ID"
-            android:value="test_appkey" />
+            android:value="1f7386ff9f" />
         <meta-data
             android:name="BaiduMobAd_CHANNEL"
-            android:value="test channel" />
+            android:value="seatune app" />
         <meta-data
             android:name="BaiduMobAd_EXCEPTION_LOG"
             android:value="true" />
